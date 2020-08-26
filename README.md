@@ -1,7 +1,6 @@
 # Super Heróis 
 
-## Descrição do Projeto
-<p>Backend - API</p>
+## Backend - API
 
 ### Tecnlogias
 * Node
